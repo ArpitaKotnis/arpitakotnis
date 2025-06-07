@@ -10,7 +10,7 @@
 - 🎓 ENTC Undergrad at COEP Technological University (2027 batch)  
 - 🧠 Founder of [Lumizenz](https://lumizenz.com) — building AI-integrated smart hardware systems  
 - 🌍 Tech Strategy Intern at <a href="https://tecmaven.sg" target="_blank">Tecmaven, Singapore</a> — optimized cross-border product workflows  
-- 💻 Former SDE Intern @ [SpringUp](https://springup.in) — contributed to their EdTech backend and dashboards  
+- 💻 Former Intern @ [SpringUp](https://springup.in) — contributed to their EdTech backend and dashboards  
 - 🛠️ Tech Intern @ [Alacrity India](https://alacrityindia.com) — assisted in MVP development for early-stage startups  
 - 💡 Passionate about electronics + AI, driven to solve real-world problems through tech
 
