@@ -3,25 +3,23 @@
 
 ---
 
-🌟 **About Me**
+🚀 **Journey So Far**
 - 🎓 ENTC Undergrad at COEP Technological University (2027 batch)
-- 🚀 Founder of [Lumizenz](https://lumizenz.com) — where hardware meets intelligence
-- 💡 Passionate about AI, circuits, and solving real-world challenges
-- ⚙️ Constantly building and breaking things in the name of innovation
-
----
-
-💼 **Experience**
-- 🧠 **Founder**, [Lumizenz](https://lumizenz.com) — AI x Hardware company innovating smart systems  
-- 🌏 **Tech Strategy Intern**, Singapore (Summer 2024) — helped optimize cross-border product decisions  
-- 🌱 **SDE Intern**, [SpringUp](https://springup.in) — worked on scalable EdTech solutions  
-- 🛠️ **Tech Intern**, [Alacrity India](https://alacrityindia.com) — built early-stage MVPs
+- 🧠 Founder of [Lumizenz](https://lumizenz.com) — building AI-integrated smart hardware systems
+- 🌍 Tech Strategy Intern in Singapore — optimized cross-border product workflows
+- 💻 Former SDE Intern @ [SpringUp](https://springup.in) — contributed to their EdTech backend and dashboards  
+- 🛠️ Tech Intern @ [Alacrity India](https://alacrityindia.com) — assisted in MVP development for early-stage startups
+- 💡 Passionate about electronics + AI, driven to solve real-world problems through tech
 
 ---
 
 🛠️ **Tech Stack**
 ```text
-Languages:   Python • C++ • JavaScript • HTML/CSS • Java
-Frameworks:  React.js • Node.js • Django • Express • TailwindCSS
-Platforms:   Firebase • Netlify • GitHub • Linux • Heroku
-Tools:       Figma • Postman • Canva • Git • VS Code
+
+- **Programming Languages:** Python, Java, C++, JavaScript, TypeScript  
+- **Frontend:** React, HTML5, CSS3, Bootstrap  
+- **Backend:** Node.js, Express.js, Django  
+- **Databases:** MongoDB, MySQL, PostgreSQL  
+- **Tools & Platforms:** Git, GitHub, Docker, AWS, Linux, VS Code  
+- **Other:** REST APIs, GraphQL, CI/CD, Agile Methodologies
+
