@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Arpita Kotnis</h1>
+<h3 align="center">Founder • Builder • ENTC @ COEP • Interned in Singapore 🇸🇬</h3>
 
-<!--
-**ArpitaKotnis/arpitakotnis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🌱 **About Me**
+- 🎓 ENTC Undergrad @ College of Engineering, Pune (COEP Tech), Batch of 2027  
+- 🧠 Currently building projects at the intersection of hardware & AI  
+- 🚀 Founder of an ENTC-focused startup — innovating for real-world impact  
+- 🌍 Interned with a Singapore-based innovation firm on product & tech strategy  
+- 💼 Ex-Intern @ [SpringUp](https://springup.in) and [Alacrity India](https://alacrityindia.com)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🛠️ **Tech Stack**
+```text
+Languages:   Python • C++ • JavaScript • C • HTML/CSS • Java
+Tools:       Git • VS Code • Figma • Canva • Postman
+Frameworks:  React.js • Node.js • Express.js • Django • TailwindCSS
+Platforms:   Firebase • GitHub • Linux • Heroku • Netlify
