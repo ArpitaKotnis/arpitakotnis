@@ -30,8 +30,8 @@
 📫 **Get in Touch**
 
 - Website: [lumizenz.com](https://lumizenz.com)  
-- LinkedIn: [linkedin.com/in/arpita-kotnis](https://linkedin.com/in/arpita-kotnis) *(update with your actual LinkedIn)*  
-- Email: arpita.kotnis@example.com *(update with your email)*
+- LinkedIn: [linkedin.com/in/arpita-kotnis](https://linkedin.com/in/arpita-kotnis) 
+- Email: arpita.kotnis@example.com 
 
 ---
 
